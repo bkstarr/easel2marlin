@@ -18,7 +18,7 @@ const argv = require('yargs')
         'travelSpeed': {
             alias: 's',
             describe: 'travel speed for G0 moves',
-            default: 1000.0
+            default: 2100.0
         },
         'fileExtension': {
             alias: 'ext',
